@@ -1,0 +1,11 @@
+LEAPSECONDS_FILE   = kernels/naif0012.tls
+SPK20_FILE         = satellite_raw.bsp
+OBJECT_ID          = -123456
+CENTER_ID          = 399
+REF_FRAME_NAME     = J2000
+SEGMENT_ID         = Simulated LEO Satellite
+START_TIME         = 2025-01-01T00:00:00
+STOP_TIME          = 2025-01-01T01:30:00
+DATA_TYPE          = 20
+POLY_DEGREE        = 3
+DATA_FILE          = example_spk20_data.txt
