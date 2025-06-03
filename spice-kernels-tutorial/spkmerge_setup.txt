@@ -1,0 +1,3 @@
+LEAPSECONDS_FILE = kernels/naif0012.tls
+SOURCE_NKERNELS  = satellite_raw.bsp
+OUTPUT_SPK       = satellite_final.bsp
