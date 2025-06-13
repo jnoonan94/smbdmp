@@ -1,7 +1,7 @@
 import spiceypy as spice
 import matplotlib.pyplot as plt
 import numpy as np
-
+#Importing relavent packages
 spice.furnsh("kernels/de430.bsp")
 
 et_start = spice.str2et("2025-01-01")
