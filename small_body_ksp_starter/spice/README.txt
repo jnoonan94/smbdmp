@@ -1,0 +1,1 @@
+Place NAIF SPICE kernels (e.g., Bennu, DE441, LSK) in this directory.
